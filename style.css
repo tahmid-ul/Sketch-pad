@@ -1,0 +1,41 @@
+body{	background-color: #FFFAF0; }
+h1 {
+  text-align: center;
+  font-family:cursive;
+  font-size: 40px;
+}
+p{
+  text-align: center;
+  font-size: 18px;
+  font-family:cursive;
+}
+.navbar {
+  height: 50px;
+  width: 700px;
+  border-radius: 10px;
+  background-color: #d2dfdf;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 40px;
+}
+div { margin: 0; padding: 0; }
+button {
+  background: #34495e;
+  border: 1px solid #404040;
+  border-radius: 5px;
+  color: white;
+	padding: 3px 10px;
+  width: 125px;
+  height: 35px;
+  margin-top: 7px;
+  font-size: 15px;
+}
+button:hover {
+  background-color: #3f5973;
+  font-size: 20px;
+}
+.submitGridSize {width: 100px; height: 25px; margin-left: 15px;margin-bottom: 15px;}
+.container { width: 1000px; margin: 0 auto; }
+.wrap { margin: auto; margin-bottom: 50px ;width: 960px; height: 400px;}
+.square { float: left; border: 1px solid gray; background: #e5eeff; }
+.footer{ font-size: 20px; float: left; font-family: cursive; margin: 15px;}
